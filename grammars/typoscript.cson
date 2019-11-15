@@ -3,6 +3,7 @@
 'fileTypes': [
   'ts'
   'txt'
+  'typoscript'
 ]
 'foldingStartMarker': '/\\*\\*|\\{\\s*$'
 'foldingStopMarker': '\\*\\*/|^\\s*\\}'
